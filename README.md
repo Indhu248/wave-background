@@ -47,9 +47,3 @@ npm install
 npm run build   # outputs to dist/
 ```
 
-## Publish
-
-```bash
-npm login
-npm publish --access public
-```
